@@ -1,0 +1,3193 @@
+{
+ "note": "Real clubs. Squads for abia-warriors, enugu-rangers, barau and bendel-insurance are real names from public sources (may be out of date). Players with placeholder:true are FICTIONAL generated names for clubs without real data. No ratings yet.",
+ "squads": {
+  "abia-warriors": [
+   {
+    "name": "Okiemute Odah",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Ishaku Ali",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Uzoigwe",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Oluwaseun Oladimeji",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Adekunle Adeleke",
+    "pos": "DF",
+    "dob": "2002-07-27"
+   },
+   {
+    "name": "Imoh Obot",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Chimezie Njoku",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Somiari Alalibo",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Samuel Atvati",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Gabriel Innocent",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Andrew Abalogu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Eric Oguocha",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Faiz Jibrin",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Wilson Elu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Samuel Kufre",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Mutiu Ogundimu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Ogbuagu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Abdullahi Hussaini",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Israel Joseph",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Shedrack Asiegbu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Nicholas Jonathan",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Osahon Osoboh",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Fatai Abdullahi",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Samuel Ogunjimi",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Yakub Hameed",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Philip Ewuga",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ezekiel Ayodele",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Maxwell Kangeshima",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Innocent Godwin",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "David Fred",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Daniel Ijeh",
+    "pos": "MF",
+    "dob": "1998-09-21"
+   },
+   {
+    "name": "Sunday Megwo",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel David",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Onu",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Paul Samson",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Anayor Ogbonna",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Chukwuemeka Obioma",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Suraju Lawal",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Chinemerem Okike",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Nur Mohammed",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Kingsley Arum",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Daniel Aghaowa",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Ikenna Oguh",
+    "pos": "FW",
+    "dob": null
+   }
+  ],
+  "barau": [
+   {
+    "name": "Chisom Chiaha",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Yusuf Muhammad",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Yusuf Mohammed Bala",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Idris Saidu",
+    "pos": "DF",
+    "dob": "2003-08-25",
+    "role": "LB"
+   },
+   {
+    "name": "Segun Adekunle",
+    "pos": "DF",
+    "dob": "2000-09-30",
+    "role": "CB"
+   },
+   {
+    "name": "Sunday Dapma",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Moses Tsehuan",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Yusuf Umar",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Ibrahim Nura",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Bismark Duah",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Aliyu Sugau",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Hillary Ekawu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Nana Kwame Abraham",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ahmed Yusuf",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Okoko",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Jimmy Ambrose",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ebuka Nwokora",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Henry Ezeonye",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Uche Moses",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Nwaodu Chukwudi",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Akpo Godwin",
+    "pos": null,
+    "dob": null
+   }
+  ],
+  "bendel-insurance": [
+   {
+    "name": "David Obiazo",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Joshua Baba",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Anthony Cletus",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Henry Onyia",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Christian Molokwu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Denis Chigozie",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Ifeanyi Ezema",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Wisdom Udom",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Chinedu Nwosu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Chukwu Onochie",
+    "pos": "FW",
+    "dob": null,
+    "role": "W"
+   },
+   {
+    "name": "Alex Oweilayefa",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Charles Omokaro",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Divine Nwachukwu",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Elmer Arunta",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Akpan",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Dunge",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Ezeh Adimovama",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Henry Oyian",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Imade Osehenkhoe",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "James Oronsaye",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Kayode Oke Solomon",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Kingsley Onovo",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Meyiwa Oritseweyinmi",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Michael Enaruna",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Nazir Mohammed",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Nnamdi Anthony",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Promise Anyanwu",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Stanley Okorom",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Stephen Sodje",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Vincent Okeke",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Chijoke Akuneto",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Israel Emmanuel",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Zaidu Ayuba",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Chisom Okereke",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Chukwudi Meze",
+    "pos": null,
+    "dob": null
+   },
+   {
+    "name": "Efe Ubiomo",
+    "pos": null,
+    "dob": null
+   }
+  ],
+  "doma-united": [
+   {
+    "name": "Godwin Adeyemi",
+    "pos": "GK",
+    "dob": "1995-06-30",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Orji",
+    "pos": "GK",
+    "dob": "1991-12-15",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Okoro",
+    "pos": "GK",
+    "dob": "1995-05-17",
+    "placeholder": true
+   },
+   {
+    "name": "Femi Effiong",
+    "pos": "DF",
+    "dob": "1994-09-10",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Obi",
+    "pos": "DF",
+    "dob": "2000-12-15",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Onuoha",
+    "pos": "DF",
+    "dob": "1998-08-26",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Ogunleye",
+    "pos": "DF",
+    "dob": "2001-05-16",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Gambo",
+    "pos": "DF",
+    "dob": "2007-06-22",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Dike",
+    "pos": "DF",
+    "dob": "2003-02-06",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Okonkwo",
+    "pos": "DF",
+    "dob": "1998-10-07",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Chukwu",
+    "pos": "DF",
+    "dob": "2005-08-29",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Ajayi",
+    "pos": "MF",
+    "dob": "1998-04-01",
+    "placeholder": true
+   },
+   {
+    "name": "Ikenna Madu",
+    "pos": "MF",
+    "dob": "2004-11-27",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Ogundele",
+    "pos": "MF",
+    "dob": "2006-08-12",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Lawal",
+    "pos": "MF",
+    "dob": "1998-03-10",
+    "placeholder": true
+   },
+   {
+    "name": "Victor Nwachukwu",
+    "pos": "MF",
+    "dob": "2007-11-21",
+    "placeholder": true
+   },
+   {
+    "name": "Victor Chukwu",
+    "pos": "MF",
+    "dob": "2001-11-03",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Madu",
+    "pos": "MF",
+    "dob": "1996-11-18",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Adewale",
+    "pos": "MF",
+    "dob": "1999-07-13",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Mohammed",
+    "pos": "FW",
+    "dob": "2002-08-13",
+    "placeholder": true
+   },
+   {
+    "name": "Samuel Aliyu",
+    "pos": "FW",
+    "dob": "2003-10-09",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Ogunleye",
+    "pos": "FW",
+    "dob": "1999-03-11",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Mohammed",
+    "pos": "FW",
+    "dob": "2007-06-02",
+    "placeholder": true
+   },
+   {
+    "name": "Obinna Ogunleye",
+    "pos": "FW",
+    "dob": "2007-01-28",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Salako",
+    "pos": "FW",
+    "dob": "2000-01-10",
+    "placeholder": true
+   }
+  ],
+  "enugu-rangers": [
+   {
+    "name": "Abuchi Okeke",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Emmanuel Ifebuche",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Abdullateef Ishola",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "George Abine",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Lucky Jimoh",
+    "pos": "GK",
+    "dob": null
+   },
+   {
+    "name": "Kenneth Igboke",
+    "pos": "DF",
+    "dob": "2005-07-27",
+    "role": "LB"
+   },
+   {
+    "name": "Chibueze Oputa",
+    "pos": "DF",
+    "dob": "2005-10-17",
+    "role": "RB"
+   },
+   {
+    "name": "Ifeanyi Onyebuchi",
+    "pos": "DF",
+    "dob": "2000-04-04",
+    "role": "CB"
+   },
+   {
+    "name": "Evans Ogbonda",
+    "pos": "DF",
+    "dob": "2002-11-03",
+    "role": "LB"
+   },
+   {
+    "name": "Daniel Itodo",
+    "pos": "DF",
+    "dob": "1996-12-14",
+    "role": "LB"
+   },
+   {
+    "name": "Chidozie Iwundu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Austine Opara",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Daniel Monday",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Ejike Ikwu",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Joel Odoh",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Wale Akintola",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Uwana Asuquo",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Philip Clement",
+    "pos": "DF",
+    "dob": null
+   },
+   {
+    "name": "Azeez Falolu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Kenechukwu Agu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Kelechi Ogbodo",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Wisdom Ebirim",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Folarin Temitope",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ikechukwu Mgbemena",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ugochukwu Ugwuoke",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ifeanyi Assurance",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ifeanyichukwu Aniji",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Ifeanyi Okechukwu",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Kingsley Ogbodo",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Godwin Asiriuwa Sunday",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Pius Igwe",
+    "pos": "MF",
+    "dob": null
+   },
+   {
+    "name": "Chidiebere Nwobodo",
+    "pos": "FW",
+    "dob": "2003-12-24",
+    "role": "RW"
+   },
+   {
+    "name": "Godwin Obaje",
+    "pos": "FW",
+    "dob": "1996-03-12",
+    "role": "CF"
+   },
+   {
+    "name": "Jerry Alex",
+    "pos": "FW",
+    "dob": "2002-11-19",
+    "role": "RW"
+   },
+   {
+    "name": "Chimobi Igwilo",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Waheed Adebayo",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Izuchukwu Chimezie",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Precious Agwu",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Daniel Eni",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "James Emo",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Ganiyu Gberefu",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Christian Nnaji",
+    "pos": "FW",
+    "dob": null
+   },
+   {
+    "name": "Chinedu Onah",
+    "pos": "FW",
+    "dob": null
+   }
+  ],
+  "enyimba": [
+   {
+    "name": "Tega Adeyemi",
+    "pos": "GK",
+    "dob": "2000-12-28",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Afolabi",
+    "pos": "GK",
+    "dob": "1993-01-03",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Ibe",
+    "pos": "GK",
+    "dob": "2005-07-04",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Usman",
+    "pos": "DF",
+    "dob": "2004-11-17",
+    "placeholder": true
+   },
+   {
+    "name": "Tunde Nnaji",
+    "pos": "DF",
+    "dob": "2007-12-03",
+    "placeholder": true
+   },
+   {
+    "name": "Kunle Yakubu",
+    "pos": "DF",
+    "dob": "2001-08-25",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Suleiman",
+    "pos": "DF",
+    "dob": "1997-07-24",
+    "placeholder": true
+   },
+   {
+    "name": "Wale Ebiye",
+    "pos": "DF",
+    "dob": "2007-11-23",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Anyanwu",
+    "pos": "DF",
+    "dob": "2007-02-02",
+    "placeholder": true
+   },
+   {
+    "name": "Bashir Udoh",
+    "pos": "DF",
+    "dob": "2005-10-25",
+    "placeholder": true
+   },
+   {
+    "name": "Tope Eze",
+    "pos": "DF",
+    "dob": "2004-05-02",
+    "placeholder": true
+   },
+   {
+    "name": "Wale Okonkwo",
+    "pos": "MF",
+    "dob": "2004-07-20",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Balogun",
+    "pos": "MF",
+    "dob": "2003-09-11",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Orji",
+    "pos": "MF",
+    "dob": "2006-06-25",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Ogunleye",
+    "pos": "MF",
+    "dob": "1999-02-06",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Bello",
+    "pos": "MF",
+    "dob": "1999-06-30",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Amadi",
+    "pos": "MF",
+    "dob": "1997-12-26",
+    "placeholder": true
+   },
+   {
+    "name": "Joshua Danladi",
+    "pos": "MF",
+    "dob": "2003-07-12",
+    "placeholder": true
+   },
+   {
+    "name": "Chinedu Amadi",
+    "pos": "MF",
+    "dob": "1999-04-08",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Chukwu",
+    "pos": "FW",
+    "dob": "1996-10-02",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Effiong",
+    "pos": "FW",
+    "dob": "1997-05-23",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Nwankwo",
+    "pos": "FW",
+    "dob": "2000-10-10",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Anyanwu",
+    "pos": "FW",
+    "dob": "2002-09-02",
+    "placeholder": true
+   },
+   {
+    "name": "Paul Okafor",
+    "pos": "FW",
+    "dob": "2007-05-11",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Agu",
+    "pos": "FW",
+    "dob": "2003-07-31",
+    "placeholder": true
+   }
+  ],
+  "ikorodu-city": [
+   {
+    "name": "Haruna Nwankwo",
+    "pos": "GK",
+    "dob": "1998-05-06",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Adeyemi",
+    "pos": "GK",
+    "dob": "1997-05-13",
+    "placeholder": true
+   },
+   {
+    "name": "Tope Yakubu",
+    "pos": "GK",
+    "dob": "1998-02-17",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Gambo",
+    "pos": "DF",
+    "dob": "2000-01-29",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Madu",
+    "pos": "DF",
+    "dob": "1995-05-05",
+    "placeholder": true
+   },
+   {
+    "name": "Tope Udoh",
+    "pos": "DF",
+    "dob": "2003-02-16",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Ajayi",
+    "pos": "DF",
+    "dob": "2000-05-07",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Ugwu",
+    "pos": "DF",
+    "dob": "2001-03-22",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Okoro",
+    "pos": "DF",
+    "dob": "1997-11-02",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Dike",
+    "pos": "DF",
+    "dob": "1995-11-24",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Madu",
+    "pos": "DF",
+    "dob": "1999-05-16",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Abubakar",
+    "pos": "MF",
+    "dob": "2000-08-05",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Lawal",
+    "pos": "MF",
+    "dob": "1998-07-26",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Etuk",
+    "pos": "MF",
+    "dob": "2000-07-09",
+    "placeholder": true
+   },
+   {
+    "name": "Ayo Inyang",
+    "pos": "MF",
+    "dob": "2002-09-28",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Amadi",
+    "pos": "MF",
+    "dob": "2005-03-10",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Obi",
+    "pos": "MF",
+    "dob": "2003-11-02",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Nwankwo",
+    "pos": "MF",
+    "dob": "2007-12-03",
+    "placeholder": true
+   },
+   {
+    "name": "Samuel Inyang",
+    "pos": "MF",
+    "dob": "2001-05-16",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Inyang",
+    "pos": "FW",
+    "dob": "2004-03-19",
+    "placeholder": true
+   },
+   {
+    "name": "Seyi Lawal",
+    "pos": "FW",
+    "dob": "1998-12-17",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Ogundele",
+    "pos": "FW",
+    "dob": "2004-08-24",
+    "placeholder": true
+   },
+   {
+    "name": "Femi Abubakar",
+    "pos": "FW",
+    "dob": "1997-11-12",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Onuoha",
+    "pos": "FW",
+    "dob": "2003-10-03",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Bello",
+    "pos": "FW",
+    "dob": "2006-02-06",
+    "placeholder": true
+   }
+  ],
+  "inter-lagos": [
+   {
+    "name": "Isa Adeyemi",
+    "pos": "GK",
+    "dob": "1991-12-06",
+    "placeholder": true
+   },
+   {
+    "name": "Paul Danladi",
+    "pos": "GK",
+    "dob": "1994-11-29",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Adebayo",
+    "pos": "GK",
+    "dob": "1996-06-02",
+    "placeholder": true
+   },
+   {
+    "name": "Moses Ugwu",
+    "pos": "DF",
+    "dob": "2003-02-20",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Nwachukwu",
+    "pos": "DF",
+    "dob": "2005-12-25",
+    "placeholder": true
+   },
+   {
+    "name": "Joshua Etuk",
+    "pos": "DF",
+    "dob": "2004-06-30",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Etuk",
+    "pos": "DF",
+    "dob": "2001-09-20",
+    "placeholder": true
+   },
+   {
+    "name": "Obinna Inyang",
+    "pos": "DF",
+    "dob": "2004-08-21",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Agu",
+    "pos": "DF",
+    "dob": "2001-02-21",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Okoro",
+    "pos": "DF",
+    "dob": "2004-12-03",
+    "placeholder": true
+   },
+   {
+    "name": "Victor Adeyemi",
+    "pos": "DF",
+    "dob": "1997-07-19",
+    "placeholder": true
+   },
+   {
+    "name": "Samuel Ajayi",
+    "pos": "MF",
+    "dob": "1997-01-23",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Yakubu",
+    "pos": "MF",
+    "dob": "2007-07-27",
+    "placeholder": true
+   },
+   {
+    "name": "Kelechi Lawal",
+    "pos": "MF",
+    "dob": "2003-06-21",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Nwachukwu",
+    "pos": "MF",
+    "dob": "2000-08-27",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Orji",
+    "pos": "MF",
+    "dob": "1997-09-21",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Ugwu",
+    "pos": "MF",
+    "dob": "2001-09-26",
+    "placeholder": true
+   },
+   {
+    "name": "Tunde Chukwu",
+    "pos": "MF",
+    "dob": "2003-06-16",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Onuoha",
+    "pos": "MF",
+    "dob": "2006-11-05",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Orji",
+    "pos": "FW",
+    "dob": "1999-08-10",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Chukwu",
+    "pos": "FW",
+    "dob": "1998-10-26",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Chukwu",
+    "pos": "FW",
+    "dob": "2003-01-20",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Orji",
+    "pos": "FW",
+    "dob": "2005-01-19",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Aliyu",
+    "pos": "FW",
+    "dob": "2001-11-03",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Nwankwo",
+    "pos": "FW",
+    "dob": "2001-06-28",
+    "placeholder": true
+   }
+  ],
+  "kano-pillars": [
+   {
+    "name": "Ayo Lawal",
+    "pos": "GK",
+    "dob": "2002-08-04",
+    "placeholder": true
+   },
+   {
+    "name": "Obinna Garuba",
+    "pos": "GK",
+    "dob": "1996-04-17",
+    "placeholder": true
+   },
+   {
+    "name": "Chinedu Usman",
+    "pos": "GK",
+    "dob": "1993-05-29",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Nnaji",
+    "pos": "DF",
+    "dob": "2006-05-27",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Ogunleye",
+    "pos": "DF",
+    "dob": "2005-04-16",
+    "placeholder": true
+   },
+   {
+    "name": "Chinedu Inyang",
+    "pos": "DF",
+    "dob": "2001-07-21",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Nwosu",
+    "pos": "DF",
+    "dob": "2000-12-18",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Garuba",
+    "pos": "DF",
+    "dob": "1998-10-25",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Amadi",
+    "pos": "DF",
+    "dob": "2003-04-18",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Abubakar",
+    "pos": "DF",
+    "dob": "2006-03-13",
+    "placeholder": true
+   },
+   {
+    "name": "Moses Usman",
+    "pos": "DF",
+    "dob": "2007-11-15",
+    "placeholder": true
+   },
+   {
+    "name": "Garba Ibe",
+    "pos": "MF",
+    "dob": "1998-12-22",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Amadi",
+    "pos": "MF",
+    "dob": "1999-01-26",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Obi",
+    "pos": "MF",
+    "dob": "2007-06-12",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Okoro",
+    "pos": "MF",
+    "dob": "2007-11-12",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Ugwu",
+    "pos": "MF",
+    "dob": "1996-11-19",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Madu",
+    "pos": "MF",
+    "dob": "2001-03-02",
+    "placeholder": true
+   },
+   {
+    "name": "Kelechi Ibe",
+    "pos": "MF",
+    "dob": "2002-01-29",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Chukwu",
+    "pos": "MF",
+    "dob": "2002-06-16",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Ebiye",
+    "pos": "FW",
+    "dob": "1997-01-06",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Bello",
+    "pos": "FW",
+    "dob": "2004-09-25",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Adeyemi",
+    "pos": "FW",
+    "dob": "2006-03-17",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Nwankwo",
+    "pos": "FW",
+    "dob": "2004-08-25",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Obi",
+    "pos": "FW",
+    "dob": "1999-04-08",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Ekpo",
+    "pos": "FW",
+    "dob": "2005-11-10",
+    "placeholder": true
+   }
+  ],
+  "katsina-united": [
+   {
+    "name": "Segun Okoro",
+    "pos": "GK",
+    "dob": "1994-11-18",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Afolabi",
+    "pos": "GK",
+    "dob": "1991-01-01",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Okonkwo",
+    "pos": "GK",
+    "dob": "2004-12-28",
+    "placeholder": true
+   },
+   {
+    "name": "Damilola Tanko",
+    "pos": "DF",
+    "dob": "1994-01-16",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Ibe",
+    "pos": "DF",
+    "dob": "2006-01-17",
+    "placeholder": true
+   },
+   {
+    "name": "Nura Okonkwo",
+    "pos": "DF",
+    "dob": "1997-10-30",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Nnaji",
+    "pos": "DF",
+    "dob": "2002-07-16",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Anyanwu",
+    "pos": "DF",
+    "dob": "2003-12-24",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Abubakar",
+    "pos": "DF",
+    "dob": "2006-04-11",
+    "placeholder": true
+   },
+   {
+    "name": "Dare Usman",
+    "pos": "DF",
+    "dob": "1997-07-30",
+    "placeholder": true
+   },
+   {
+    "name": "Nnamdi Usman",
+    "pos": "DF",
+    "dob": "1994-01-30",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Suleiman",
+    "pos": "MF",
+    "dob": "2007-03-08",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Gambo",
+    "pos": "MF",
+    "dob": "2002-04-26",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Lawal",
+    "pos": "MF",
+    "dob": "1998-10-12",
+    "placeholder": true
+   },
+   {
+    "name": "Damilola Adewale",
+    "pos": "MF",
+    "dob": "2006-11-09",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Obi",
+    "pos": "MF",
+    "dob": "2000-02-26",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Abubakar",
+    "pos": "MF",
+    "dob": "1997-04-24",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Agu",
+    "pos": "MF",
+    "dob": "1997-04-25",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Nwankwo",
+    "pos": "MF",
+    "dob": "2002-01-15",
+    "placeholder": true
+   },
+   {
+    "name": "Damilola Onuoha",
+    "pos": "FW",
+    "dob": "2002-09-26",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Nnaji",
+    "pos": "FW",
+    "dob": "2007-05-05",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Adewale",
+    "pos": "FW",
+    "dob": "1997-09-29",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Aliyu",
+    "pos": "FW",
+    "dob": "2000-02-08",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Ogundele",
+    "pos": "FW",
+    "dob": "2006-02-12",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Udoh",
+    "pos": "FW",
+    "dob": "2005-05-10",
+    "placeholder": true
+   }
+  ],
+  "kun-khalifat": [
+   {
+    "name": "Etim Onuoha",
+    "pos": "GK",
+    "dob": "1996-12-01",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Nwankwo",
+    "pos": "GK",
+    "dob": "1992-06-20",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Ogunleye",
+    "pos": "GK",
+    "dob": "1997-06-06",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Okon",
+    "pos": "DF",
+    "dob": "1999-12-19",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Ugwu",
+    "pos": "DF",
+    "dob": "2005-11-24",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Eze",
+    "pos": "DF",
+    "dob": "2007-11-20",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Oladipo",
+    "pos": "DF",
+    "dob": "2002-09-07",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Oladipo",
+    "pos": "DF",
+    "dob": "2005-02-03",
+    "placeholder": true
+   },
+   {
+    "name": "Etim Orji",
+    "pos": "DF",
+    "dob": "2005-09-21",
+    "placeholder": true
+   },
+   {
+    "name": "Wale Ekpo",
+    "pos": "DF",
+    "dob": "1999-08-23",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Oladipo",
+    "pos": "DF",
+    "dob": "2002-07-19",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Madu",
+    "pos": "MF",
+    "dob": "1997-05-03",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Orji",
+    "pos": "MF",
+    "dob": "1997-02-01",
+    "placeholder": true
+   },
+   {
+    "name": "Dare Nwachukwu",
+    "pos": "MF",
+    "dob": "2004-05-31",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Effiong",
+    "pos": "MF",
+    "dob": "2002-06-08",
+    "placeholder": true
+   },
+   {
+    "name": "Sani Ibok",
+    "pos": "MF",
+    "dob": "2001-05-12",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Salako",
+    "pos": "MF",
+    "dob": "2003-12-08",
+    "placeholder": true
+   },
+   {
+    "name": "Bashir Umoh",
+    "pos": "MF",
+    "dob": "2002-08-23",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Eze",
+    "pos": "MF",
+    "dob": "2002-10-29",
+    "placeholder": true
+   },
+   {
+    "name": "Seyi Ebiye",
+    "pos": "FW",
+    "dob": "2003-05-06",
+    "placeholder": true
+   },
+   {
+    "name": "Garba Ibok",
+    "pos": "FW",
+    "dob": "1997-11-25",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Obi",
+    "pos": "FW",
+    "dob": "1996-12-04",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Ogunleye",
+    "pos": "FW",
+    "dob": "1997-02-15",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Nwachukwu",
+    "pos": "FW",
+    "dob": "2007-11-30",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Eze",
+    "pos": "FW",
+    "dob": "2007-08-11",
+    "placeholder": true
+   }
+  ],
+  "kwara-united": [
+   {
+    "name": "Bashir Olawale",
+    "pos": "GK",
+    "dob": "1991-04-01",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Okonkwo",
+    "pos": "GK",
+    "dob": "2003-05-07",
+    "placeholder": true
+   },
+   {
+    "name": "Danjuma Okafor",
+    "pos": "GK",
+    "dob": "2004-09-23",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Ebiye",
+    "pos": "DF",
+    "dob": "2003-12-08",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Salako",
+    "pos": "DF",
+    "dob": "1999-05-20",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Usman",
+    "pos": "DF",
+    "dob": "2005-01-08",
+    "placeholder": true
+   },
+   {
+    "name": "Paul Ekpo",
+    "pos": "DF",
+    "dob": "1996-06-28",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Nwachukwu",
+    "pos": "DF",
+    "dob": "2004-12-08",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Afolabi",
+    "pos": "DF",
+    "dob": "1998-01-19",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Tanko",
+    "pos": "DF",
+    "dob": "2004-10-03",
+    "placeholder": true
+   },
+   {
+    "name": "Damilola Fashola",
+    "pos": "DF",
+    "dob": "2000-07-02",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Ekpo",
+    "pos": "MF",
+    "dob": "1998-06-05",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Udoh",
+    "pos": "MF",
+    "dob": "2001-07-14",
+    "placeholder": true
+   },
+   {
+    "name": "Idara Ekpo",
+    "pos": "MF",
+    "dob": "1996-02-29",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Tanko",
+    "pos": "MF",
+    "dob": "1997-02-21",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Danladi",
+    "pos": "MF",
+    "dob": "1996-12-16",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Usman",
+    "pos": "MF",
+    "dob": "1999-04-20",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Chukwu",
+    "pos": "MF",
+    "dob": "2002-01-05",
+    "placeholder": true
+   },
+   {
+    "name": "Ikenna Okon",
+    "pos": "MF",
+    "dob": "2000-08-15",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Ekpo",
+    "pos": "FW",
+    "dob": "1998-07-16",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Dike",
+    "pos": "FW",
+    "dob": "2003-03-07",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Anyanwu",
+    "pos": "FW",
+    "dob": "1996-12-27",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Aliyu",
+    "pos": "FW",
+    "dob": "2003-06-02",
+    "placeholder": true
+   },
+   {
+    "name": "Ubong Tanko",
+    "pos": "FW",
+    "dob": "2002-01-17",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Yakubu",
+    "pos": "FW",
+    "dob": "2001-07-16",
+    "placeholder": true
+   }
+  ],
+  "nasarawa-united": [
+   {
+    "name": "Lekan Ibe",
+    "pos": "GK",
+    "dob": "1994-06-27",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Fashola",
+    "pos": "GK",
+    "dob": "2006-04-20",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Agu",
+    "pos": "GK",
+    "dob": "1991-06-17",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Obi",
+    "pos": "DF",
+    "dob": "2004-08-21",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Nwachukwu",
+    "pos": "DF",
+    "dob": "1995-03-12",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Adewale",
+    "pos": "DF",
+    "dob": "2005-03-25",
+    "placeholder": true
+   },
+   {
+    "name": "Victor Umoh",
+    "pos": "DF",
+    "dob": "1996-08-06",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Obi",
+    "pos": "DF",
+    "dob": "1995-11-20",
+    "placeholder": true
+   },
+   {
+    "name": "Somto Ibe",
+    "pos": "DF",
+    "dob": "2004-07-01",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Nnaji",
+    "pos": "DF",
+    "dob": "2006-03-06",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Garuba",
+    "pos": "DF",
+    "dob": "1999-03-31",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Nwankwo",
+    "pos": "MF",
+    "dob": "2000-04-20",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Onuoha",
+    "pos": "MF",
+    "dob": "2003-07-06",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Mohammed",
+    "pos": "MF",
+    "dob": "2003-03-29",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Ugwu",
+    "pos": "MF",
+    "dob": "1998-08-05",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Orji",
+    "pos": "MF",
+    "dob": "1999-03-22",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Fashola",
+    "pos": "MF",
+    "dob": "2007-04-11",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Ibe",
+    "pos": "MF",
+    "dob": "2001-01-08",
+    "placeholder": true
+   },
+   {
+    "name": "Joshua Afolabi",
+    "pos": "MF",
+    "dob": "2001-03-23",
+    "placeholder": true
+   },
+   {
+    "name": "Damilola Inyang",
+    "pos": "FW",
+    "dob": "1996-12-02",
+    "placeholder": true
+   },
+   {
+    "name": "Nura Nwosu",
+    "pos": "FW",
+    "dob": "2004-03-17",
+    "placeholder": true
+   },
+   {
+    "name": "Etim Abubakar",
+    "pos": "FW",
+    "dob": "1996-11-28",
+    "placeholder": true
+   },
+   {
+    "name": "Obinna Nnaji",
+    "pos": "FW",
+    "dob": "2006-11-06",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Umoh",
+    "pos": "FW",
+    "dob": "1998-06-24",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Yakubu",
+    "pos": "FW",
+    "dob": "1997-07-16",
+    "placeholder": true
+   }
+  ],
+  "niger-tornadoes": [
+   {
+    "name": "Akpan Bello",
+    "pos": "GK",
+    "dob": "1994-02-19",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Gambo",
+    "pos": "GK",
+    "dob": "1997-03-03",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Nwachukwu",
+    "pos": "GK",
+    "dob": "2004-01-12",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Anyanwu",
+    "pos": "DF",
+    "dob": "2006-05-28",
+    "placeholder": true
+   },
+   {
+    "name": "Idara Nwachukwu",
+    "pos": "DF",
+    "dob": "1995-12-27",
+    "placeholder": true
+   },
+   {
+    "name": "Etim Afolabi",
+    "pos": "DF",
+    "dob": "2000-06-16",
+    "placeholder": true
+   },
+   {
+    "name": "Seyi Nnaji",
+    "pos": "DF",
+    "dob": "2006-01-19",
+    "placeholder": true
+   },
+   {
+    "name": "Nura Fashola",
+    "pos": "DF",
+    "dob": "2004-12-27",
+    "placeholder": true
+   },
+   {
+    "name": "Sadiq Mohammed",
+    "pos": "DF",
+    "dob": "2002-01-02",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Ajayi",
+    "pos": "DF",
+    "dob": "2005-06-14",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Umoh",
+    "pos": "DF",
+    "dob": "2004-01-25",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Amadi",
+    "pos": "MF",
+    "dob": "2007-11-19",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Oladipo",
+    "pos": "MF",
+    "dob": "2001-02-11",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Danladi",
+    "pos": "MF",
+    "dob": "2001-02-06",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Nnaji",
+    "pos": "MF",
+    "dob": "2005-12-25",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Ogunleye",
+    "pos": "MF",
+    "dob": "2004-09-27",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Eze",
+    "pos": "MF",
+    "dob": "1998-02-17",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Okafor",
+    "pos": "MF",
+    "dob": "1998-04-06",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Agu",
+    "pos": "MF",
+    "dob": "2006-07-07",
+    "placeholder": true
+   },
+   {
+    "name": "Tope Ogunleye",
+    "pos": "FW",
+    "dob": "1997-08-30",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Ogunleye",
+    "pos": "FW",
+    "dob": "2006-05-18",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Mohammed",
+    "pos": "FW",
+    "dob": "2002-06-07",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Oladipo",
+    "pos": "FW",
+    "dob": "1998-08-08",
+    "placeholder": true
+   },
+   {
+    "name": "Sani Adeyemi",
+    "pos": "FW",
+    "dob": "2007-03-15",
+    "placeholder": true
+   },
+   {
+    "name": "Garba Nwachukwu",
+    "pos": "FW",
+    "dob": "2000-11-25",
+    "placeholder": true
+   }
+  ],
+  "plateau-united": [
+   {
+    "name": "Kosi Afolabi",
+    "pos": "GK",
+    "dob": "2006-02-12",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Okon",
+    "pos": "GK",
+    "dob": "1999-03-12",
+    "placeholder": true
+   },
+   {
+    "name": "Obinna Eze",
+    "pos": "GK",
+    "dob": "1996-01-04",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Ogundele",
+    "pos": "DF",
+    "dob": "2006-06-10",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Nwosu",
+    "pos": "DF",
+    "dob": "1997-08-27",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Suleiman",
+    "pos": "DF",
+    "dob": "2001-01-08",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Lawal",
+    "pos": "DF",
+    "dob": "1996-05-24",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Eze",
+    "pos": "DF",
+    "dob": "1994-03-21",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Ibe",
+    "pos": "DF",
+    "dob": "2005-09-24",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Nwankwo",
+    "pos": "DF",
+    "dob": "1997-05-05",
+    "placeholder": true
+   },
+   {
+    "name": "Dare Okafor",
+    "pos": "DF",
+    "dob": "1998-05-24",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Aliyu",
+    "pos": "MF",
+    "dob": "2006-06-30",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Mohammed",
+    "pos": "MF",
+    "dob": "2004-03-09",
+    "placeholder": true
+   },
+   {
+    "name": "Victor Eze",
+    "pos": "MF",
+    "dob": "1998-11-07",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Obi",
+    "pos": "MF",
+    "dob": "2006-07-16",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Salako",
+    "pos": "MF",
+    "dob": "2007-10-23",
+    "placeholder": true
+   },
+   {
+    "name": "Dare Etuk",
+    "pos": "MF",
+    "dob": "2005-01-28",
+    "placeholder": true
+   },
+   {
+    "name": "Paul Suleiman",
+    "pos": "MF",
+    "dob": "2006-11-06",
+    "placeholder": true
+   },
+   {
+    "name": "Idara Fashola",
+    "pos": "MF",
+    "dob": "2000-06-10",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Ugwu",
+    "pos": "FW",
+    "dob": "2007-03-26",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Fashola",
+    "pos": "FW",
+    "dob": "2002-12-11",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Lawal",
+    "pos": "FW",
+    "dob": "2001-12-19",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Ugwu",
+    "pos": "FW",
+    "dob": "2005-12-24",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Obi",
+    "pos": "FW",
+    "dob": "1999-11-30",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Garuba",
+    "pos": "FW",
+    "dob": "2004-10-16",
+    "placeholder": true
+   }
+  ],
+  "ranchers-bees": [
+   {
+    "name": "Joshua Okoro",
+    "pos": "GK",
+    "dob": "2003-07-14",
+    "placeholder": true
+   },
+   {
+    "name": "Etim Mohammed",
+    "pos": "GK",
+    "dob": "1990-01-20",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Abubakar",
+    "pos": "GK",
+    "dob": "2000-10-11",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Adeyemi",
+    "pos": "DF",
+    "dob": "2002-04-02",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Ibok",
+    "pos": "DF",
+    "dob": "2007-08-19",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Udoh",
+    "pos": "DF",
+    "dob": "1999-04-11",
+    "placeholder": true
+   },
+   {
+    "name": "Haruna Ebiye",
+    "pos": "DF",
+    "dob": "1998-04-13",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Onuoha",
+    "pos": "DF",
+    "dob": "2000-07-20",
+    "placeholder": true
+   },
+   {
+    "name": "Kunle Abubakar",
+    "pos": "DF",
+    "dob": "1998-02-24",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Nwosu",
+    "pos": "DF",
+    "dob": "2006-01-07",
+    "placeholder": true
+   },
+   {
+    "name": "Seyi Effiong",
+    "pos": "DF",
+    "dob": "2007-03-04",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Nwosu",
+    "pos": "MF",
+    "dob": "2003-11-01",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Ogunleye",
+    "pos": "MF",
+    "dob": "2003-12-20",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Bello",
+    "pos": "MF",
+    "dob": "2000-06-24",
+    "placeholder": true
+   },
+   {
+    "name": "Somto Anyanwu",
+    "pos": "MF",
+    "dob": "2007-11-10",
+    "placeholder": true
+   },
+   {
+    "name": "Tobenna Okon",
+    "pos": "MF",
+    "dob": "2003-09-11",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Danladi",
+    "pos": "MF",
+    "dob": "2007-10-01",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Mohammed",
+    "pos": "MF",
+    "dob": "1996-05-29",
+    "placeholder": true
+   },
+   {
+    "name": "Idara Inyang",
+    "pos": "MF",
+    "dob": "1997-11-14",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Olawale",
+    "pos": "FW",
+    "dob": "1998-03-14",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Dike",
+    "pos": "FW",
+    "dob": "1996-12-16",
+    "placeholder": true
+   },
+   {
+    "name": "Peter Danladi",
+    "pos": "FW",
+    "dob": "2004-01-07",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Udoh",
+    "pos": "FW",
+    "dob": "2007-04-16",
+    "placeholder": true
+   },
+   {
+    "name": "Kunle Olawale",
+    "pos": "FW",
+    "dob": "1997-05-31",
+    "placeholder": true
+   },
+   {
+    "name": "Sani Suleiman",
+    "pos": "FW",
+    "dob": "2000-02-05",
+    "placeholder": true
+   }
+  ],
+  "rivers-united": [
+   {
+    "name": "Chinedu Okafor",
+    "pos": "GK",
+    "dob": "1999-07-23",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Okafor",
+    "pos": "GK",
+    "dob": "1999-06-16",
+    "placeholder": true
+   },
+   {
+    "name": "Etim Okon",
+    "pos": "GK",
+    "dob": "1997-07-26",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Nwosu",
+    "pos": "DF",
+    "dob": "1998-10-04",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Oladipo",
+    "pos": "DF",
+    "dob": "1999-12-02",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Nwosu",
+    "pos": "DF",
+    "dob": "1996-10-12",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Inyang",
+    "pos": "DF",
+    "dob": "2007-06-06",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Inyang",
+    "pos": "DF",
+    "dob": "2005-03-23",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Inyang",
+    "pos": "DF",
+    "dob": "2003-05-08",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Ebiye",
+    "pos": "DF",
+    "dob": "2001-07-19",
+    "placeholder": true
+   },
+   {
+    "name": "Yusuf Adeyemi",
+    "pos": "DF",
+    "dob": "1994-12-12",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Inyang",
+    "pos": "MF",
+    "dob": "2004-05-31",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Chukwu",
+    "pos": "MF",
+    "dob": "2004-04-10",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Ibok",
+    "pos": "MF",
+    "dob": "1997-05-19",
+    "placeholder": true
+   },
+   {
+    "name": "Tobenna Usman",
+    "pos": "MF",
+    "dob": "1997-01-08",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Garuba",
+    "pos": "MF",
+    "dob": "2002-03-04",
+    "placeholder": true
+   },
+   {
+    "name": "Garba Amadi",
+    "pos": "MF",
+    "dob": "1996-10-17",
+    "placeholder": true
+   },
+   {
+    "name": "Paul Tanko",
+    "pos": "MF",
+    "dob": "1996-02-10",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Ekpo",
+    "pos": "MF",
+    "dob": "2004-09-12",
+    "placeholder": true
+   },
+   {
+    "name": "Chinedu Dike",
+    "pos": "FW",
+    "dob": "2006-01-26",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Nwachukwu",
+    "pos": "FW",
+    "dob": "2000-04-27",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Nwachukwu",
+    "pos": "FW",
+    "dob": "2002-07-31",
+    "placeholder": true
+   },
+   {
+    "name": "Tunde Mohammed",
+    "pos": "FW",
+    "dob": "2007-07-03",
+    "placeholder": true
+   },
+   {
+    "name": "Tobenna Ugwu",
+    "pos": "FW",
+    "dob": "2001-02-21",
+    "placeholder": true
+   },
+   {
+    "name": "Nura Ibe",
+    "pos": "FW",
+    "dob": "2005-04-12",
+    "placeholder": true
+   }
+  ],
+  "shooting-stars": [
+   {
+    "name": "Wale Aliyu",
+    "pos": "GK",
+    "dob": "2002-12-26",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Ogunleye",
+    "pos": "GK",
+    "dob": "2005-08-21",
+    "placeholder": true
+   },
+   {
+    "name": "Kelechi Suleiman",
+    "pos": "GK",
+    "dob": "2003-03-16",
+    "placeholder": true
+   },
+   {
+    "name": "Bashir Okafor",
+    "pos": "DF",
+    "dob": "1998-01-05",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Bello",
+    "pos": "DF",
+    "dob": "2001-06-26",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Ekpo",
+    "pos": "DF",
+    "dob": "2001-07-07",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Garuba",
+    "pos": "DF",
+    "dob": "2004-10-26",
+    "placeholder": true
+   },
+   {
+    "name": "Bashir Eze",
+    "pos": "DF",
+    "dob": "2007-06-27",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Salako",
+    "pos": "DF",
+    "dob": "2002-12-10",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Agu",
+    "pos": "DF",
+    "dob": "2005-05-28",
+    "placeholder": true
+   },
+   {
+    "name": "Joseph Mohammed",
+    "pos": "DF",
+    "dob": "2007-06-15",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Adeyemi",
+    "pos": "MF",
+    "dob": "1999-11-16",
+    "placeholder": true
+   },
+   {
+    "name": "Kelechi Nnaji",
+    "pos": "MF",
+    "dob": "1997-02-13",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Agu",
+    "pos": "MF",
+    "dob": "1999-09-08",
+    "placeholder": true
+   },
+   {
+    "name": "Aminu Etuk",
+    "pos": "MF",
+    "dob": "2007-07-10",
+    "placeholder": true
+   },
+   {
+    "name": "Iniobong Orji",
+    "pos": "MF",
+    "dob": "1996-01-27",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Ibok",
+    "pos": "MF",
+    "dob": "2007-06-26",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Inyang",
+    "pos": "MF",
+    "dob": "1999-01-15",
+    "placeholder": true
+   },
+   {
+    "name": "Efe Chukwu",
+    "pos": "MF",
+    "dob": "2000-08-13",
+    "placeholder": true
+   },
+   {
+    "name": "Chinedu Tanko",
+    "pos": "FW",
+    "dob": "1998-12-26",
+    "placeholder": true
+   },
+   {
+    "name": "Moses Bello",
+    "pos": "FW",
+    "dob": "2004-03-05",
+    "placeholder": true
+   },
+   {
+    "name": "Abdul Tanko",
+    "pos": "FW",
+    "dob": "2003-05-09",
+    "placeholder": true
+   },
+   {
+    "name": "Nura Okon",
+    "pos": "FW",
+    "dob": "2003-07-18",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Amadi",
+    "pos": "FW",
+    "dob": "1998-03-28",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Bello",
+    "pos": "FW",
+    "dob": "2000-07-04",
+    "placeholder": true
+   }
+  ],
+  "sporting-lagos": [
+   {
+    "name": "Iniobong Suleiman",
+    "pos": "GK",
+    "dob": "1996-10-11",
+    "placeholder": true
+   },
+   {
+    "name": "Lekan Nwankwo",
+    "pos": "GK",
+    "dob": "1996-10-31",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Ekpo",
+    "pos": "GK",
+    "dob": "2000-11-29",
+    "placeholder": true
+   },
+   {
+    "name": "Preye Ibok",
+    "pos": "DF",
+    "dob": "2002-06-04",
+    "placeholder": true
+   },
+   {
+    "name": "Segun Dike",
+    "pos": "DF",
+    "dob": "2004-12-20",
+    "placeholder": true
+   },
+   {
+    "name": "Godwin Abubakar",
+    "pos": "DF",
+    "dob": "2001-07-03",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Abubakar",
+    "pos": "DF",
+    "dob": "1994-04-24",
+    "placeholder": true
+   },
+   {
+    "name": "Daniel Adewale",
+    "pos": "DF",
+    "dob": "1995-12-29",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Ibok",
+    "pos": "DF",
+    "dob": "2001-05-28",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Eze",
+    "pos": "DF",
+    "dob": "2004-12-18",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Salako",
+    "pos": "DF",
+    "dob": "2001-12-18",
+    "placeholder": true
+   },
+   {
+    "name": "Sani Ugwu",
+    "pos": "MF",
+    "dob": "2001-12-09",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Amadi",
+    "pos": "MF",
+    "dob": "1997-09-17",
+    "placeholder": true
+   },
+   {
+    "name": "Olamide Okoro",
+    "pos": "MF",
+    "dob": "2005-02-10",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Danladi",
+    "pos": "MF",
+    "dob": "1999-12-13",
+    "placeholder": true
+   },
+   {
+    "name": "Gideon Ibok",
+    "pos": "MF",
+    "dob": "2001-09-01",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Okafor",
+    "pos": "MF",
+    "dob": "1998-04-23",
+    "placeholder": true
+   },
+   {
+    "name": "Wale Onuoha",
+    "pos": "MF",
+    "dob": "1998-09-02",
+    "placeholder": true
+   },
+   {
+    "name": "Isa Abubakar",
+    "pos": "MF",
+    "dob": "2005-10-10",
+    "placeholder": true
+   },
+   {
+    "name": "Garba Garuba",
+    "pos": "FW",
+    "dob": "2006-08-17",
+    "placeholder": true
+   },
+   {
+    "name": "Kunle Adeyemi",
+    "pos": "FW",
+    "dob": "1996-03-14",
+    "placeholder": true
+   },
+   {
+    "name": "Tega Salako",
+    "pos": "FW",
+    "dob": "2006-02-21",
+    "placeholder": true
+   },
+   {
+    "name": "Sani Nwachukwu",
+    "pos": "FW",
+    "dob": "2002-02-19",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Anyanwu",
+    "pos": "FW",
+    "dob": "2004-04-13",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Nwankwo",
+    "pos": "FW",
+    "dob": "2007-06-23",
+    "placeholder": true
+   }
+  ],
+  "warri-wolves": [
+   {
+    "name": "Akpan Adeyemi",
+    "pos": "GK",
+    "dob": "1993-04-17",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Onuoha",
+    "pos": "GK",
+    "dob": "1991-11-26",
+    "placeholder": true
+   },
+   {
+    "name": "Uchenna Amadi",
+    "pos": "GK",
+    "dob": "2006-04-30",
+    "placeholder": true
+   },
+   {
+    "name": "Ovie Suleiman",
+    "pos": "DF",
+    "dob": "1996-09-18",
+    "placeholder": true
+   },
+   {
+    "name": "Kosi Adebayo",
+    "pos": "DF",
+    "dob": "1998-02-20",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Usman",
+    "pos": "DF",
+    "dob": "2003-12-16",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Yakubu",
+    "pos": "DF",
+    "dob": "2007-05-14",
+    "placeholder": true
+   },
+   {
+    "name": "Joshua Adewale",
+    "pos": "DF",
+    "dob": "2001-02-24",
+    "placeholder": true
+   },
+   {
+    "name": "Emeka Onuoha",
+    "pos": "DF",
+    "dob": "1994-11-09",
+    "placeholder": true
+   },
+   {
+    "name": "Bashir Madu",
+    "pos": "DF",
+    "dob": "2006-12-19",
+    "placeholder": true
+   },
+   {
+    "name": "Idara Ibe",
+    "pos": "DF",
+    "dob": "2006-11-29",
+    "placeholder": true
+   },
+   {
+    "name": "Ifeanyi Orji",
+    "pos": "MF",
+    "dob": "2000-02-22",
+    "placeholder": true
+   },
+   {
+    "name": "Ibrahim Usman",
+    "pos": "MF",
+    "dob": "2000-03-24",
+    "placeholder": true
+   },
+   {
+    "name": "Kayode Onuoha",
+    "pos": "MF",
+    "dob": "2001-09-10",
+    "placeholder": true
+   },
+   {
+    "name": "Musa Afolabi",
+    "pos": "MF",
+    "dob": "1996-08-05",
+    "placeholder": true
+   },
+   {
+    "name": "Shehu Dike",
+    "pos": "MF",
+    "dob": "2002-09-19",
+    "placeholder": true
+   },
+   {
+    "name": "Ebi Okon",
+    "pos": "MF",
+    "dob": "1997-09-18",
+    "placeholder": true
+   },
+   {
+    "name": "Bassey Lawal",
+    "pos": "MF",
+    "dob": "1997-02-15",
+    "placeholder": true
+   },
+   {
+    "name": "Tamuno Aliyu",
+    "pos": "MF",
+    "dob": "2000-05-01",
+    "placeholder": true
+   },
+   {
+    "name": "Bayo Ajayi",
+    "pos": "FW",
+    "dob": "2007-11-13",
+    "placeholder": true
+   },
+   {
+    "name": "Chukwuma Olawale",
+    "pos": "FW",
+    "dob": "2007-01-18",
+    "placeholder": true
+   },
+   {
+    "name": "Solomon Danladi",
+    "pos": "FW",
+    "dob": "1998-12-09",
+    "placeholder": true
+   },
+   {
+    "name": "Wale Garuba",
+    "pos": "FW",
+    "dob": "1999-02-14",
+    "placeholder": true
+   },
+   {
+    "name": "Emmanuel Lawal",
+    "pos": "FW",
+    "dob": "1997-06-20",
+    "placeholder": true
+   },
+   {
+    "name": "Akpan Ekpo",
+    "pos": "FW",
+    "dob": "2000-01-30",
+    "placeholder": true
+   }
+  ]
+ },
+ "status": {
+  "abia-warriors": "good: positions from Sofascore snippet; goalkeepers inferred from list order",
+  "barau": "partial: about half the squad; new signings have no position",
+  "bendel-insurance": "partial: names only for most players (pos null)",
+  "doma-united": "placeholder: fictional squad, replace with real players",
+  "enugu-rangers": "good: positions known; list may be a few months old",
+  "enyimba": "placeholder: fictional squad, replace with real players",
+  "ikorodu-city": "placeholder: fictional squad, replace with real players",
+  "inter-lagos": "placeholder: fictional squad, replace with real players",
+  "kano-pillars": "placeholder: fictional squad, replace with real players",
+  "katsina-united": "placeholder: fictional squad, replace with real players",
+  "kun-khalifat": "placeholder: fictional squad, replace with real players",
+  "kwara-united": "placeholder: fictional squad, replace with real players",
+  "nasarawa-united": "placeholder: fictional squad, replace with real players",
+  "niger-tornadoes": "placeholder: fictional squad, replace with real players",
+  "plateau-united": "placeholder: fictional squad, replace with real players",
+  "ranchers-bees": "placeholder: fictional squad, replace with real players",
+  "rivers-united": "placeholder: fictional squad, replace with real players",
+  "shooting-stars": "placeholder: fictional squad, replace with real players",
+  "sporting-lagos": "placeholder: fictional squad, replace with real players",
+  "warri-wolves": "placeholder: fictional squad, replace with real players"
+ }
+}
