@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NPFL Manager 26</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>NPFL Manager 26</h1>
+    <p class="season" id="season"></p>
+  </header>
+
+  <main class="layout">
+    <section class="club-list" aria-labelledby="pick-title">
+      <h2 id="pick-title">Choose your club</h2>
+      <ul id="clubs" class="clubs"></ul>
+    </section>
+
+    <aside class="club-card" id="card" aria-live="polite">
+      <p class="empty">Select a club to see its details.</p>
+    </aside>
+  </main>
+
+  <footer class="bar">
+    <button id="start" type="button" disabled>Start career</button>
+    <p id="status" class="status"></p>
+  </footer>
+
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+  "season": "2026-27",
+  "league": "NPFL",
+  "note": "Only fields confirmed from Wikipedia are filled. null = still to be researched.",
+  "clubs": [
+    { "id": "abia-warriors", "name": "Abia Warriors", "city": "Umuahia", "stadium": "Umuahia Township Stadium", "capacity": 5000 },
+    { "id": "barau", "name": "Barau", "city": "Dambatta", "stadium": "Sani Abacha Stadium", "capacity": 16000 },
+    { "id": "bendel-insurance", "name": "Bendel Insurance", "city": "Benin City", "stadium": "Samuel Ogbemudia Stadium", "capacity": 12000 },
+    { "id": "doma-united", "name": "Doma United", "city": "Gombe", "stadium": "Pantami Stadium", "capacity": 12000 },
+    { "id": "enugu-rangers", "name": "Enugu Rangers", "city": "Enugu", "stadium": "Nnamdi Azikiwe Stadium", "capacity": 22000 },
+    { "id": "enyimba", "name": "Enyimba", "city": "Aba", "stadium": "Enyimba International Stadium", "capacity": 16000 },
+    { "id": "ikorodu-city", "name": "Ikorodu City", "city": null, "stadium": null, "capacity": null },
+    { "id": "inter-lagos", "name": "Inter Lagos", "city": null, "stadium": null, "capacity": null },
+    { "id": "kano-pillars", "name": "Kano Pillars", "city": null, "stadium": null, "capacity": null },
+    { "id": "katsina-united", "name": "Katsina United", "city": null, "stadium": null, "capacity": null },
+    { "id": "kun-khalifat", "name": "Kun Khalifat", "city": null, "stadium": null, "capacity": null },
+    { "id": "kwara-united", "name": "Kwara United", "city": null, "stadium": null, "capacity": null },
+    { "id": "nasarawa-united", "name": "Nasarawa United", "city": null, "stadium": null, "capacity": null },
+    { "id": "niger-tornadoes", "name": "Niger Tornadoes", "city": null, "stadium": null, "capacity": null },
+    { "id": "plateau-united", "name": "Plateau United", "city": null, "stadium": null, "capacity": null },
+    { "id": "ranchers-bees", "name": "Ranchers Bees", "city": null, "stadium": null, "capacity": null },
+    { "id": "rivers-united", "name": "Rivers United", "city": null, "stadium": null, "capacity": null },
+    { "id": "shooting-stars", "name": "Shooting Stars", "city": null, "stadium": null, "capacity": null },
+    { "id": "sporting-lagos", "name": "Sporting Lagos", "city": null, "stadium": null, "capacity": null },
+    { "id": "warri-wolves", "name": "Warri Wolves", "city": null, "stadium": null, "capacity": null }
+  ]
+}
